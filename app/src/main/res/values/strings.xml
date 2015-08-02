@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RecyclerViewExample</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="happy">Feliz</string>
+    <string name="angry">Bravo</string>
+    <string name="laughing">Sorrindo</string>
+    <string name="shy">Envergonhado</string>
+    <string name="titulo_lista">Humores</string>
+</resources>
